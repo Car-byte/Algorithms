@@ -1,3 +1,6 @@
+//does not have deconstructor so dont use this for anything other than learning 
+//will leak memory if you use
+
 
 #include <iostream>
 #include <vector>
